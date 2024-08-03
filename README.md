@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prateek0xeo
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning css and javascript
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on many projects
 - 📫 reach me on Prateekkumar2004@gmail.com
 
