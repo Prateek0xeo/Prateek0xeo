@@ -6,7 +6,7 @@ I enjoy building minimalistic UIs, working with modern web frameworks, and exper
 ---
 
 ## 🧑‍💻 About Me
-- 🌞 Founder & Developer at **Saurja** – a solar installation company with boots on the ground.  
+- 🌞 Developer at **Saurja** – a solar installation company with boots on the ground.  
 - ⚡ Building a **CRM app** for solar panel vendors and installers (quotations, project timelines, legal docs, inventory, lead management).  
 - 🖥️ Exploring **CAD software using WebAssembly (C++/Rust)** and **OS development for Raspberry Pi-like boards**.  
 - 🎯 Interested in **AI, embedded systems, and full-stack development**.  
