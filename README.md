@@ -37,9 +37,9 @@ I enjoy building minimalistic UIs, working with modern web frameworks, and exper
 ---
 
 ## 📫 Connect with Me
-- 🌐 [Portfolio/Website](#) (add your link)  
+- 🌐 [Portfolio/Website](#)
 - 💼 [LinkedIn](#)  
-- 📧 prateek@example.com  
+- 📧 prateekkumar2004@gmail.com  
 
 ---
 ✨ Always curious, always building!
